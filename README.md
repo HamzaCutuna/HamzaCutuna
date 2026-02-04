@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I'm Hamza
 
-<!--
-**HamzaCutuna/HamzaCutuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Software Development student at the Faculty of Information Technologies, Mostar  
+- 💻 Freelance Web Developer (React, Next.js, TypeScript, Tailwind, WordPress)
+- 📢 Google Ads Specialist (Campaign Management, Reporting & Performance Optimization)
+- 🚀 Interested in startups, SaaS products, and practical problem-solving  
+- 🌍 Passionate about innovation, technology, and building impactful digital products  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack & Skills
+
+**Frontend Development**
+- React, Next.js (App Router)
+- TypeScript, JavaScript
+- Tailwind CSS, HTML, CSS
+
+**Backend & Tools**
+- Supabase, Neon, PostgreSQL
+- Git & GitHub
+- Cursor, VS Code
+- Vercel, Netlify
+
+**Marketing & Design**
+- Google Ads Campaign Management & Reporting  
+- SEO Optimization & Digital Marketing  
+- Photoshop (creative assets, ads, visuals)
+
+---
+
+🔗 Portfolio
+
+- 🌐 Portfolio: https://www.clickbait.ba/
+
