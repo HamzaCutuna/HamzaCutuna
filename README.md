@@ -18,9 +18,9 @@
 ### **Backend & Tools**
 - Python (CLI tools, automation)  
 - C++ (fundamentals, problem-solving)  
-- Supabase, Neon, PostgreSQL  
+- Supabase, Neon, PostgreSQL
+- Socket.io, Railway
 - Git & GitHub  
-- Cursor, VS Code  
 - Vercel, Netlify  
 
 ### **Other Skills**
